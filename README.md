@@ -1,15 +1,10 @@
-### Hi there 👋
-
-<!--
-**sami-alaloosi/sami-alaloosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hello there, I'm Sami Al Aloosi 👋
 
 
 ## I'm a self-taught full stack web developer!!
-- 🧠 I’m currently learning AWS
-- 👥 I’m looking to collaborate with other talented devolopers.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🧠 &nbsp; I’m currently learning AWS.
+- 👥 &nbsp; I’m looking to collaborate with other talented devolopers.
+- 🥅 &nbsp; 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
