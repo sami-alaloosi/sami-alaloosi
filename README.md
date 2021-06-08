@@ -33,5 +33,5 @@
 
 ---
 
-[website]: https://sami-alaloosi.netlify.app/
+[website]: https://aloosi.dev/
 [linkedin]: https://www.linkedin.com/in/sami-alaloosi-a49a35204/
