@@ -34,4 +34,4 @@
 ---
 
 [website]: https://aloosi.dev/
-[linkedin]: https://www.linkedin.com/in/sami-alaloosi-a49a35204/
+[linkedin]: https://www.linkedin.com/in/sami-alaloosi/
